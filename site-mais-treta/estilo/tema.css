@@ -1,0 +1,35 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-avatar{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+   box-shadow: 2px 0px 10px 2px #ff0000;
+
+}
+
+h1{
+    color: rgb(0, 0, 0) ;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: -2px;
+}
+
+h3{
+    color: #777;
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: 2px; 
+    margin-bottom: 0px;
+
+}
+
+header div {
+    border: solid 4px #777;
+    border-radius: 18px;
+    padding: 20px;
+    background-image: url("../imaguem/img_login2.jpg");
+    background-size: 100%;
+}
